@@ -10,8 +10,8 @@ Project Description:
 Objective and Brief:
 
             Here I have created a Create a forecast model applying concepts of moving averages, 
-            forecasting methods, ARIMA models and time series forecasting. The  model should be able to predict future sales by 
-            training on the historical sales data.
+            forecasting methods, ARIMA models and time series forecasting. The  model should be 
+            able to predict future sales by training on the historical sales data.
 
 Project Guidlines:
 
